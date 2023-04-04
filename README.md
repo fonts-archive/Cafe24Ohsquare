@@ -15,7 +15,7 @@ font-family: 'Cafe24 Ohsquare';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Ohsquare/Cafe24Ohsquare.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Ohsquare/Cafe24Ohsquare.css" type="text/css"/>
 ```
 
 &nbsp;
