@@ -44,13 +44,13 @@
 ### HTML
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Ohsquare/subsets/Cafe24Ohsquare-Face-dynamic-subset.css" type="text/css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Ohsquare/subsets/Cafe24Ohsquare-dynamic-subset.css" type="text/css"/>
 ```
 
 ### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Ohsquare/subsets/Cafe24Ohsquare-Face-dynamic-subset.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Ohsquare/subsets/Cafe24Ohsquare-dynamic-subset.css');
 ```
 
 &nbsp;
